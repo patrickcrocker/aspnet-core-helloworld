@@ -3,3 +3,4 @@ applications:
 - name: sample-aspnetcore-helloworld
   random-route: true
   memory: 512M
+  disk_quota: 650M
