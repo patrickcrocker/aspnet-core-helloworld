@@ -2,7 +2,11 @@
 
 A simple ASP.NET Core web application for the [ASP.NET Core buildpack][].
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
+# Push to Cloud Foundry
+
+```
+cf push -b https://github.com/cloudfoundry-community/dotnet-core-buildpack.git
+```
 
 ## Run the app locally
 
