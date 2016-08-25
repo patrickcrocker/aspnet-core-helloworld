@@ -2,7 +2,7 @@
 
 A simple ASP.NET Core web application for the [ASP.NET Core buildpack][].
 
-# Push to Cloud Foundry
+## Push to Cloud Foundry
 
 ```
 cf push -b https://github.com/cloudfoundry-community/dotnet-core-buildpack.git
